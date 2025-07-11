@@ -113,10 +113,10 @@
 <h2 align="center">✨ GitHub Stats & Streaks</h2>
 
 <div align="center">
-  <a href="https://github.com/Apurba1903">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Apurba1903&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&include_all_commits=true" alt="GitHub Stats"/>
-    <img height="180em" src="https://streak-stats.demolab.com/?user=Apurba1903&theme=tokyonight&hide_border=true&background=00000000&date_format=j%20M%5B%20Y%5D&ring=7DD3FC&fire=7DD3FC&currStreakLabel=7DD3FC" alt="GitHub Streak"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apurba1903&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages"/>
+  <a href="https://github.com/TridibSourav">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TridibSourav&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&include_all_commits=true" alt="GitHub Stats"/>
+    <img height="180em" src="https://streak-stats.demolab.com/?user=TridibSourav&theme=tokyonight&hide_border=true&background=00000000&date_format=j%20M%5B%20Y%5D&ring=7DD3FC&fire=7DD3FC&currStreakLabel=7DD3FC" alt="GitHub Streak"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TridibSourav&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages"/>
   </a>
 </div>
 
